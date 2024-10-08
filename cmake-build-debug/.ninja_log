@@ -1,11 +1,13 @@
 # ninja log v6
+20	577	7501157737921695	build.ninja	805f909cef624e80
+69	552	7501138396505804	CMakeFiles/untitled.dir/main.cpp.obj	d6959a7f7e66c4e5
 14	1138	7501057673138630	CMakeFiles/untitled.dir/task2.cpp.obj	7530f013c73ebb9e
-11	1166	7501058695395677	CMakeFiles/untitled.dir/main.cpp.obj	d6959a7f7e66c4e5
-4	561	7501060543224974	build.ninja	805f909cef624e80
-1038	1199	7501058551378946	untitled.exe	6d1bd0f9bb37790b
-17	1215	7501060979211134	CMakeFiles/untitled.dir/task1.cpp.obj	2d9a8ded1a1d44d6
-10	1228	7501060979139763	CMakeFiles/untitled.dir/main.cpp.obj	d6959a7f7e66c4e5
-1229	1416	7501060991319258	untitled.exe	73fffe5e5d863764
+122	320	7501145032092494	untitled.exe	f615b9a3f8bd9a3f
 205	667	7501130991484955	CMakeFiles/untitled.dir/task1.cpp.obj	2d9a8ded1a1d44d6
-193	1730	7501130991372783	CMakeFiles/untitled.dir/main.cpp.obj	d6959a7f7e66c4e5
-1731	2364	7501131006750800	untitled.exe	73fffe5e5d863764
+23	1816	7501140227576389	CMakeFiles/untitled.dir/Chapter_1_task_1.cpp.obj	3d885865930c42a9
+22	1179	7501142784112844	CMakeFiles/untitled.dir/Chapter_1_task_2.cpp.obj	3a52f7742b8fb151
+24	1689	7501149135740215	CMakeFiles/untitled.dir/Chapter_1_task_3.cpp.obj	38d3d75e47f4d2e8
+25	2141	7501150864481493	CMakeFiles/untitled.dir/Chapter_1_task_4.cpp.obj	41750cc783ee604c
+36	2022	7501152574272611	CMakeFiles/untitled.dir/Chapter_1_task_5.cpp.obj	e950869320f1a224
+29	1705	7501153917649245	CMakeFiles/untitled.dir/Chapter_1_task_7.cpp.obj	a1aeded5a151e402
+21	1740	7501153917579432	CMakeFiles/untitled.dir/Chapter_1_task_6.cpp.obj	69439305838194df
