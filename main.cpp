@@ -1,6 +1,15 @@
 #include <iostream>
+
 using namespace std;
-int main() {
-    cout<<5+7;
-    return 0;
+
+void task1() {
+    cout<<"hello world"<<endl;
 }
+
+void task2() {
+    cout<<"task2";
+}
+int main() {
+    task2();
+}
+
