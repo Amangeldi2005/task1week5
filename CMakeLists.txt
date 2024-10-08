@@ -4,4 +4,6 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled main.cpp
+        task1.cpp
+        task1.h
 )
