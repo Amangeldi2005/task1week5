@@ -1,6 +1,7 @@
 # ninja log v6
-20	577	7501708699870908	build.ninja	805f909cef624e80
+20	577	7501757413942549	build.ninja	805f909cef624e80
 69	552	7501138396505804	CMakeFiles/untitled.dir/main.cpp.obj	d6959a7f7e66c4e5
+4397	5894	7501737009533847	CMakeFiles/untitled.dir/Chapter_2__task_8.cpp.obj	6ea926888576bcb7
 14	1138	7501057673138630	CMakeFiles/untitled.dir/task2.cpp.obj	7530f013c73ebb9e
 122	320	7501145032092494	untitled.exe	f615b9a3f8bd9a3f
 205	667	7501130991484955	CMakeFiles/untitled.dir/task1.cpp.obj	2d9a8ded1a1d44d6
@@ -14,5 +15,16 @@
 39	2503	7501664184325213	CMakeFiles/untitled.dir/Chapter_1_task_8.cpp.obj	2f5dac008986fae4
 47	2513	7501664184405011	CMakeFiles/untitled.dir/Chapter_1_task_9.cpp.obj	3b06d882977250ce
 2513	4433	7501664209064600	CMakeFiles/untitled.dir/Chapter_2__task_1.cpp.obj	1ebebedacd7238a2
+4773	6098	7501737013289279	CMakeFiles/untitled.dir/Chapter_2_task_10_.cpp.obj	b0797361250b36af
 2505	4783	7501664208984810	CMakeFiles/untitled.dir/Chapter_1_task_10.cpp.obj	736db20c61b1109c
-30	1661	7501667200042341	CMakeFiles/untitled.dir/Chapter__2_task_2.cpp.obj	156a7cad5e8b5832
+95	2855	7501736966512212	CMakeFiles/untitled.dir/Chapter__2_task_2.cpp.obj	156a7cad5e8b5832
+138	2501	7501736966935288	CMakeFiles/untitled.dir/Chapter_2_task_4.cpp.obj	500f1e91396a0e01
+119	3085	7501736966751192	CMakeFiles/untitled.dir/Chapter_2_task_3_.cpp.obj	1ef39ff2ac14ca44
+3086	4773	7501736996416965	CMakeFiles/untitled.dir/Chapter_2__task_7.cpp.obj	9d0c40479b72efda
+2855	4397	7501736994114553	CMakeFiles/untitled.dir/Chapter_2_task_6.cpp.obj	c7943a58812055ba
+2502	4428	7501736990576026	CMakeFiles/untitled.dir/Chapter_2_task_5_.cpp.obj	6ee7fe7f353698fc
+4429	6227	7501737009846939	CMakeFiles/untitled.dir/Chapter_2__task_9.cpp.obj	15b78c84b4519a4a
+15	2206	7501749538793147	CMakeFiles/untitled.dir/Chapter_3_task_1_.cpp.obj	9599f963fab81544
+23	2218	7501749538872900	CMakeFiles/untitled.dir/Chapter_3_task_2.cpp.obj	30182c57c2b7b91a
+30	2516	7501749538953892	CMakeFiles/untitled.dir/Chapter_3_task_3.cpp.obj	4b6d428855659a16
+2207	3336	7501749560717391	CMakeFiles/untitled.dir/Chapter_3_task_4.cpp.obj	3b87cdeceaccefbb
